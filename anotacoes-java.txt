@@ -1,0 +1,60 @@
+BEANS
+
+Cliente (Classe)
+	nome 
+	idade
+	valor
+
+Setters (entradas)
+Getters (Exibir)
+
+Classe é o modelo em que vai ser criado os objetos
+	Forma de bolo = Classe
+	Bolos prontos = objetos
+	
+Transformar uma classe em um objeto
+objetoCliente = cliente
+
+Quando executar se torna um objeto 
+
+
+
+Criação de um novo projeto
+Criar pasta
+New > Other > Java Project
+Adicionar Nome
+Remover -module-info.java-
+
+> Criar package 
+	(Padrão de projeto)
+	Package: br.com.fiap.beans
+	Package: br.com.fiap.main
+
+MAIN = Pacote de execução
+MAIN classe = classe de execução 
+
+> Criar classe 
+	New class
+		beans > Cliente (Primeira Letra Maiúsculas)
+	New class 
+		main[marcar publico void main] >  Teste cliente
+
+> Estanciar objetos após criar a classe main
+
+---------------------------------------------------------------
+# Organização de arquivos
+
+- Podem ser colocadaos pacotes um dentro do outro
+
+
+
+
+
+
+-------------------------------------------------------------
+
+Aprte ctrl e clique no tipo do dado (String, Number)
+Private = nada fora dessas variáveis vai visualizar 
+
+Void = não vai exibir os dados // não retorna valores
+public "void"
